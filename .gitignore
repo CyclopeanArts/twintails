@@ -20,5 +20,3 @@ Thumbs.db
 *.tmp
 *.bak
 *.disabled
-/public/.git/
-/public/.gitignore
