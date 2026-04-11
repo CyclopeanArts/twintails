@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/volumes/volume-01/</loc>
+    <loc>https://twintails.sakiroku.com/volumes/volume-01/</loc>
   </url><url>
-    <loc>http://localhost:1313/volumes/volume-01/prologue/</loc>
+    <loc>https://twintails.sakiroku.com/volumes/volume-01/prologue/</loc>
   </url><url>
-    <loc>http://localhost:1313/volumes/volume-01/chapter-01/</loc>
+    <loc>https://twintails.sakiroku.com/volumes/volume-01/chapter-01/</loc>
   </url><url>
-    <loc>http://localhost:1313/volumes/volume-01/chapter-02/</loc>
+    <loc>https://twintails.sakiroku.com/volumes/volume-01/chapter-02/</loc>
   </url><url>
-    <loc>http://localhost:1313/volumes/volume-01/chapter-03/</loc>
+    <loc>https://twintails.sakiroku.com/volumes/volume-01/chapter-03/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://twintails.sakiroku.com/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://twintails.sakiroku.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://twintails.sakiroku.com/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://twintails.sakiroku.com/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/volumes/</loc>
+    <loc>https://twintails.sakiroku.com/volumes/</loc>
   </url>
 </urlset>
